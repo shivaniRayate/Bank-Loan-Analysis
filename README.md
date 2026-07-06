@@ -44,7 +44,8 @@ Banks need to monitor loan performance and identify factors affecting loan appro
 
 ## Dashboard
 
-(Add dashboard screenshot here)
+<img width="1366" height="768" alt="Screenshot 2026-05-30 111812" src="https://github.com/user-attachments/assets/1a7d5b37-193d-4486-881b-a0a9392fd3cb" />
+
 
 ---
 
